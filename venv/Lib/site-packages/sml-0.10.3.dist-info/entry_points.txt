@@ -1,0 +1,3 @@
+[console_scripts]
+sml = sml.cli:cli
+

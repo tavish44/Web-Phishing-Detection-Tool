@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: sherlockml
+Version: 0.18.6
+Summary: Python library for interacting with SherlockML.
+Home-page: https://sherlockml.com
+Author: ASI Data Science
+Author-email: opensource@asidatascience.com
+License: Apache Software License
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: pytz
+Requires-Dist: six
+Requires-Dist: marshmallow (==3.0.0rc3)
+Requires-Dist: marshmallow-enum
+Requires-Dist: boto3
+Requires-Dist: botocore
+Requires-Dist: enum34 ; python_version < "3.4"
+
+UNKNOWN
+
+

@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: sml
+Version: 0.10.3
+Summary: The command line interface to SherlockML
+Home-page: https://sherlockml.com
+Author: ASI Data Science
+Author-email: engineering@asidatascience.com
+License: Apache Software License
+Keywords: data science platform
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Operating System :: POSIX
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: click
+Requires-Dist: python-dateutil
+Requires-Dist: requests
+Requires-Dist: six
+Requires-Dist: tabulate
+Requires-Dist: sherlockml (>=0.18.2)
+
+# sml
+
+`sml` is the command line interface to [SherlockML](https://sherlockml.com).
+
+
